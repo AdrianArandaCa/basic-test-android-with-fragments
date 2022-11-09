@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Act6AdrianAranda</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fotologo">fotoLogo</string>
+    <string name="examen_tipus_test_2_dam">Examen tipus test 2ºDAM</string>
+    <string name="fbdown">fbdown</string>
+    <string name="fbup">fbup</string>
+    <string name="nom_de_l_alumne">Nom de l\'alumne</string>
+    <string name="quin_es_el_teu_nom">Quin es el teu nom?</string>
+    <string name="comen_ar">Començar</string>
+    <string name="usuari">Usuari</string>
+    <string name="pregunta_1">Pregunta 1</string>
+    <string name="resposta_1">Resposta 1</string>
+    <string name="pregunta_2">Pregunta 2</string>
+    <string name="resposta_2">Resposta 2</string>
+    <string name="pregunta_3">Pregunta 3</string>
+    <string name="resposta_3">Resposta 3</string>
+    <string name="pregunta_4">Pregunta 4</string>
+    <string name="resposta_4">Resposta 4</string>
+    <string name="pregunta_5">Pregunta 5</string>
+    <string name="resposta_5">Resposta 5</string>
+    <string name="puntuaci">Puntuació</string>
+    <string name="pregunta">Pregunta</string>
+    <string name="resposta1">Resposta1</string>
+    <string name="resposta2">Resposta2</string>
+    <string name="resposta3">Resposta3</string>
+    <string name="enviar">Enviar</string>
+</resources>
